@@ -1,3 +1,5 @@
+# custom fork of the ab-glyph crate modified to suit vterm's needs of transforming fonts.
+
 ## [ab_glyph](glyph) [![crates.io](https://img.shields.io/crates/v/ab_glyph.svg)](https://crates.io/crates/ab_glyph) [![Documentation](https://docs.rs/ab_glyph/badge.svg)](https://docs.rs/ab_glyph)
 Fast API for loading, scaling, positioning and rasterizing OpenType font glyphs. See [readme](glyph), [changelog](glyph/CHANGELOG.md).
 
